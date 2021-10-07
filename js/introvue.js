@@ -18,3 +18,5 @@ const Counter = {
         }, 1000);
     }
 }
+
+Vue.createApp(Counter).mount("#contadorvue");
